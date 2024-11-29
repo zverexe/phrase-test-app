@@ -1,2 +1,4 @@
 # phrase-test-app
-Created with CodeSandbox
+A test application that loads phrase from API and shows it letter by letter
+
+
